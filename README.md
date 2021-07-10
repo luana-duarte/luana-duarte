@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**luana-duarte/luana-duarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Luana Duarte
+I'm 23 years old
+I'm passionate about technology and I'm enthusiast in systems development
+I'm from São Paulo, Brazil
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"**Comece onde está. Use o que você tem. Faça o que você pode!**"
+
+
+
+## *Languages*
+
+![](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/c-sharp.png)![Html](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/html-5.png)![Css](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/css3.png)![JavaScript](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/javascript.png)
+
+
+
+## *Tools*
+
+
+![Visual Studio](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/visual-studio-2019.png)![Visual Studio Code](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/visual-studio-code-2019.png)
+
