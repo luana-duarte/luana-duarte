@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Luana Duarte
+   My name is Luana Duarte
 I'm 23 years old
-I'm passionate about technology and I'm enthusiast in systems development
+   I'm passionate about technology and I'm enthusiast in systems development
 I'm from São Paulo, Brazil
 
 
