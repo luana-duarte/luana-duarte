@@ -21,9 +21,7 @@ My name is Luana Duarte
     <img align="center" alt="Luana-html5" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg">
   <img align="center" alt="Luana-css3" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-plain.svg">
   <img align="center" alt="Luana-dotnet" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/dot-net/dot-net-original.svg">
-   <img align="center" alt="Luana-JS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg">
      <img align="center" alt="Luana-SQLServer" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
- <img align="center" alt="Luana-firebase" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/firebase/firebase-plain.svg">
   </div> <br>
   - Tools
    <img align="center" alt="Luana-VS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/visualstudio/visualstudio-plain-wordmark.svg">
